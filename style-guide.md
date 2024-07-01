@@ -1,4 +1,4 @@
-# Funel Style Guide
+#Style Guide
 
 ## Html import links
 
